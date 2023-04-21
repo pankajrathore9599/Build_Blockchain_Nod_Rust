@@ -1,1 +1,1 @@
-# Build_Blockchain_Nod_Rust
+This example provides a basic implementation of a blockchain node. There are many aspects not covered in this example, such as block validation, consensus algorithms, and a decentralized peer-to-peer network. For a more comprehensive implementation, you may want to explore existing Rust blockchain projects and libraries for inspiration.
